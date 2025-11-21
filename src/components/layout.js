@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import Head from '../components/head';
 import PropTypes from 'prop-types';
 import styled, { ThemeProvider } from 'styled-components';
 import { Head, Loader, Nav, Social, Email, Footer } from '@components';

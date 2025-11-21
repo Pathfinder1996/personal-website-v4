@@ -5,7 +5,7 @@ module.exports = {
     title: '戴聖宴的個人網站',
     description:
       '您好，我是戴聖宴，熱衷於學習新技術並將其應用於實際專案中。',
-    siteUrl: 'https://dsy-personal-website-v4.vercel.app/', // No trailing slash allowed!
+    siteUrl: 'https://dsy-personal-website-v4.vercel.app', // No trailing slash allowed!
     image: '/me.jpg', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
   },

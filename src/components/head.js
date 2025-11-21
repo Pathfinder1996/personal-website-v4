@@ -14,10 +14,10 @@ const Head = ({ title, description, image }) => {
       query {
         site {
           siteMetadata {
-            defaultTitle: title
-            defaultDescription: description
+            title
+            description
             siteUrl
-            defaultImage: image
+            image
             twitterUsername
           }
         }
@@ -26,10 +26,10 @@ const Head = ({ title, description, image }) => {
   );
 
   const {
-    defaultTitle,
-    defaultDescription,
+    title: defaultTitle,
+    description: defaultDescription,
+    image: defaultImage,
     siteUrl,
-    defaultImage,
     twitterUsername,
   } = site.siteMetadata;
 
