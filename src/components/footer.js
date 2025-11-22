@@ -106,7 +106,7 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="https://github.com/Pathfinder1996/dsy-personal-website-v4">
-          <div>本網站基於 Brittany Chiang 的 v4 模板建立</div>
+          <div>本網站基於 Brittany Chiang 的 v4 專案進行小改後的個人網站</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
