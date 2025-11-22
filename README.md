@@ -1,0 +1,1 @@
+This website is a lightly customized version of the original [Brittany Chiang v4 project](https://github.com/bchiang7/v4), created to showcase my research expertise, academic achievements, and technical projects.
